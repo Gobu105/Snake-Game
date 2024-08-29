@@ -7,5 +7,4 @@ Snake Game Using Java
   3. Beware of screen border
 
 --File Details 
-
   1.SnakeGame is the run file
